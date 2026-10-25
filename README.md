@@ -30,7 +30,7 @@ STORE_DESCRIPTION=<your_store_description>
 
 ### 3. Run the service
 ```bash
-uvicorn chat_service:app --reload --port 8000
+uvicorn chat_service:app --reload --port 8001
 ```
 
 ---
